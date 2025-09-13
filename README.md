@@ -7,10 +7,10 @@
 - Self-driving research for quantum chemistry
 
 ### Featured Projects
-- [qckit](https://github.com/Gunwook-Nam/) : A Python toolkit for simplifying and automating quantum chemistry workflows
-- [GunBook](https://github.com/Gunwook-Nam) : Personal blog for machine learning and chemistry tips
+- [qckit](https://github.com/Gunwook-Nam/) : A Python toolkit for simplifying and automating quantum chemistry workflows. (under working)
+- [GunBook](https://gunwook-nam.github.io/) : Personal blog on machine learning and chemistry
 
 ### How to Reach Me
-- [Google Schoalr](https://scholar.google.com/citations?hl=ko&user=LS4h2bMAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/gunwook-nam-170940280/)
+- [Google Schoalr](https://scholar.google.com/citations?hl=en&user=LS4h2bMAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/gunwook-nam-62033b2b8/)
 - Email : gunwook@snu.ac.kr
