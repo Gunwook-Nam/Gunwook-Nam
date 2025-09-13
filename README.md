@@ -1,16 +1,16 @@
-## Hi there 👋
+## NAM: Nam's AI for Molecules
+> NAM is Not just About My name, but Nam's AI for Molecules.
 
-<!--
-**Gunwook-Nam/Gunwook-Nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research Interests
+- Machine learning for chemistry
+- Automation for chemistry
+- Self-driving research for quantum chemistry
 
-Here are some ideas to get you started:
+### Featured Projects
+- [qckit](https://github.com/Gunwook-Nam/) : A Python toolkit for simplifying and automating quantum chemistry workflows
+- [GunBook](https://github.com/Gunwook-Nam) : Personal blog for machine learning and chemistry tips
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to Reach Me
+- [Google Schoalr](https://scholar.google.com/citations?hl=ko&user=LS4h2bMAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/gunwook-nam-170940280/)
+- Email : gunwook@snu.ac.kr
